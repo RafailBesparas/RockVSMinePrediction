@@ -6,10 +6,9 @@ Gaussian noise.
 
 # During this project I will try to use different algorithms for this task and evaluate their behaviour.
 1. LinearRegression
-2. NaiveBayes
-3. K-Nearest Neighbors
-4. Decision Trees
-5. Support Vector Machine
+2. K-Nearest Neighbors
+3. Decision Trees
+4. Support Vector Machine
 
 # This project falls under the category of Binary classification.
 
